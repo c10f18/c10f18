@@ -38,9 +38,9 @@ Here are some ideas to get you started:
 
 ## Also Worked With
 
-상술한 메인 스텍 이외에도 다양한 기술들을 다루어 왔습니다.
-배움과 응용에 특화되어 있습니다.
-기술은 도구이고 저는 어떤 도구든지 필요하면 사용할 수 있습니다.
+상술한 메인 스텍 이외에도 다양한 기술들을 다루어 왔습니다.  
+배움과 응용에 특화되어 있습니다.  
+기술은 도구이고 저는 어떤 도구든지 필요하면 사용할 수 있습니다.  
 ## Github Stats
 
 <div style=" display: flex; align-items: flex-start; ">
